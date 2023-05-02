@@ -5,7 +5,7 @@ export const navBarItem = [
     target: '',
   },
   {
-    title: '🔥OneKing短链',
+    title: '🔥短链',
     link: 'https://fto.cc/',
     target: '_blank',
   },
